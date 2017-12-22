@@ -1,5 +1,5 @@
 
-# What is captioning made of?
+# What is image captioning made of?
 
 These are original images for Section 4.2: 
 * tsne_initial_boc_4000.png  - corresponds to tsne projection of the initial bag of object representation
